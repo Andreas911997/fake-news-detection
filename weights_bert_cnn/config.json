@@ -1,0 +1,5 @@
+{
+    "model_name": "bert-base-uncased",
+    "max_len": 128,
+    "threshold": 0.5
+}
