@@ -1,2 +1,1 @@
-# fake-news-detection
-AI for Business Analytics Assignment.
+Model weights, Tokenizer and Model configuration saved successfully to weights_bert_cnn folder!
